@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-The project is deployed using Netlify [Click here for live demo](https://lucky-panda-32dbbe.netlify.app)
+The project is deployed using Netlify [Click here for live demo](https://drecipe-app.netlify.app)
 
 ## Available Scripts
 

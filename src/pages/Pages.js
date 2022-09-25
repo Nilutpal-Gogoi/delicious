@@ -1,6 +1,6 @@
 import React from 'react'
 import Home from './Home'
-import {Route,Routes, BrowserRouter, useLocation} from "react-router-dom";
+import {Route,Routes, useLocation} from "react-router-dom";
 import Cuisine from './Cuisine';
 import Searched from './Searched';
 import Recipe from './Recipe';
